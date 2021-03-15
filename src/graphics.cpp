@@ -1,7 +1,7 @@
 #include <iostream>
 #include "graphics.h"
 
-Graphics::Graphics(GameLogic &gamelogic)
+Graphics::Graphics()
 {
 	//invalidate variables
 	gWindow = NULL;

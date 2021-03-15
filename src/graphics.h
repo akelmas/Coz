@@ -12,7 +12,7 @@ class Graphics
 {
 public:
 //constructor and destructor
-    Graphics(GameLogic &gamelogic);
+    Graphics();
     ~Graphics();
     //Screen dimension constants
 
